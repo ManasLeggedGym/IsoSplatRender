@@ -2,7 +2,7 @@
 - [x] Downlaod Nerfbusters dataset on Summer
 - [x] Setup gsplat on Summer - ask @Om if faced with blockers
 - [x] Schedule runs for gsplat on Summer - get reviewer with @Om before running anything
-- [ ] Need to generate SAM3 masks for selected objects from scenes in nfb
+- [x] Need to generate SAM3 masks for selected objects from scenes in nfb
 - [ ] Test whether your cleanup script reliably works across scenes without major changes.
 - [ ] For the above ^ Design a modular framework and evaluation pipeline that should:
        - [ ] It should measure the Quality of the cleanup (PSNR/SSIM/LPIPS - before and after the cleanup)
